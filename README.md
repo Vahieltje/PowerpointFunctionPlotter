@@ -1,7 +1,7 @@
 # How to install 
 This assumes you have Python installed, with numpy and matplotlib. If you don't, see the section "how to setup python".
 1. Download the generate_plot.py file, and put it in a directory and remember. For example ```C:\Users\YOURUSER\AppData\Roaming\Microsoft\Addins\generate_plot.py```.
-2. Download the functionplotter.ppam file. You can leave this in your downloads folder.
+2. Download the functionplotter.ppam file. Place it in the same folder as the generate_plot.py file.
 3. Find the .ppam file, and right click > properties > General tab, at the bottom: make sure the "Unblock" checkmark is set to True.
 4. Open PowerPoint. Go to File > Options (at the bottom of the page) > Add-ins > Manage (bottom again) > change to Powerpoint Add-ins > Go...
 5. Click Add-new. Navigate to the .ppam file, click it and open. The extension is now installed. Now we have to show it where to find python and the generate plot file.
